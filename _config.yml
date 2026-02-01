@@ -24,6 +24,8 @@ kramdown:
 sass:
     style:          "compressed"
 
+    theme: jekyll-latex
+
 # Other Params
 include:            [ "robots.txt" ]
 exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile" ]
