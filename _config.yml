@@ -37,9 +37,9 @@ paginate_path: "/blog/page:num/"
 defaults:
   -
     scope:
-      path:         ""
+      path: ""
     values:
-      layout:       "null"
+      layout: "default"
   -
     scope:
       type:         "pages"
